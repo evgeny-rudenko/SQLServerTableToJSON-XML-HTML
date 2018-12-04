@@ -1,0 +1,24 @@
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe.config
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csprojResolveAssemblyReference.cache
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\bin\Debug\TableToJSON.pdb
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\obj\Debug\TableToJSON.exe
+c:\users\rianon\documents\visual studio 2013\Projects\TableToJSON\TableToJSON\obj\Debug\TableToJSON.pdb
+W:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe.config
+W:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe
+W:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\TableToJSON.pdb
+W:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.dll
+W:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.xml
+W:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csprojResolveAssemblyReference.cache
+W:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.exe
+W:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.pdb
+V:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe.config
+V:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe
+V:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\TableToJSON.pdb
+V:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.dll
+V:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.xml
+V:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csprojResolveAssemblyReference.cache
+V:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.exe
+V:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.pdb
