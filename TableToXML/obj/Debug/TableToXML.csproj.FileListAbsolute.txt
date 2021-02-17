@@ -24,3 +24,10 @@ V:\eFarma\Сайт\TableToJSON\TableToXML\bin\Debug\TableToXML.pdb
 V:\eFarma\Сайт\TableToJSON\TableToXML\obj\Debug\TableToXML.csprojResolveAssemblyReference.cache
 V:\eFarma\Сайт\TableToJSON\TableToXML\obj\Debug\TableToXML.exe
 V:\eFarma\Сайт\TableToJSON\TableToXML\obj\Debug\TableToXML.pdb
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\bin\Debug\TableToXML.exe.config
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\bin\Debug\TableToXML.exe
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\bin\Debug\TableToXML.pdb
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\obj\Debug\TableToXML.csprojAssemblyReference.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\obj\Debug\TableToXML.csproj.CoreCompileInputs.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\obj\Debug\TableToXML.exe
+C:\Users\evgeny\source\repos\TableToJSON\TableToXML\obj\Debug\TableToXML.pdb

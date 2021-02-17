@@ -21,7 +21,7 @@ namespace TableToXML
                 //это костыль
                 String DtName = arg;
                 DataTable ttt = fillDataTable(arg);
-                if (DtName == "v_goods_json")
+                if (DtName == "v_goods_json"|| DtName == "v_goods")
                 {
                     DtName = "goods";
                 }

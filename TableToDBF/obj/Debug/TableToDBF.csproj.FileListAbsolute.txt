@@ -1,0 +1,7 @@
+C:\repos\TableToJSON\TableToDBF\obj\Debug\TableToDBF.csprojAssemblyReference.cache
+C:\repos\TableToJSON\TableToDBF\obj\Debug\TableToDBF.csproj.CoreCompileInputs.cache
+C:\repos\TableToJSON\TableToDBF\bin\Debug\TableToDBF.exe.config
+C:\repos\TableToJSON\TableToDBF\bin\Debug\TableToDBF.exe
+C:\repos\TableToJSON\TableToDBF\bin\Debug\TableToDBF.pdb
+C:\repos\TableToJSON\TableToDBF\obj\Debug\TableToDBF.exe
+C:\repos\TableToJSON\TableToDBF\obj\Debug\TableToDBF.pdb

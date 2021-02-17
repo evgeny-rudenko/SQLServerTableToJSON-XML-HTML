@@ -22,3 +22,13 @@ V:\eFarma\Сайт\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.xml
 V:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csprojResolveAssemblyReference.cache
 V:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.exe
 V:\eFarma\Сайт\TableToJSON\TableToJSON\obj\Debug\TableToJSON.pdb
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe.config
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\bin\Debug\TableToJSON.exe
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\bin\Debug\TableToJSON.pdb
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csprojAssemblyReference.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csproj.CoreCompileInputs.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\obj\Debug\TableToJSON.csproj.CopyComplete
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\obj\Debug\TableToJSON.exe
+C:\Users\evgeny\source\repos\TableToJSON\TableToJSON\obj\Debug\TableToJSON.pdb

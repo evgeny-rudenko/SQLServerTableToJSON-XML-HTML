@@ -16,3 +16,10 @@ V:\eFarma\Сайт\TableToJSON\TableToHTML\obj\Debug\TableToHTML.pdb
 V:\eFarma\Сайт\TableToJSON\TableToHTML\bin\Debug\TableToHTML.exe
 V:\eFarma\Сайт\TableToJSON\TableToHTML\bin\Debug\TableToHTML.pdb
 V:\eFarma\Сайт\TableToJSON\TableToHTML\obj\Debug\TableToHTML.csprojResolveAssemblyReference.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\bin\Debug\TableToHTML.exe.config
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\bin\Debug\TableToHTML.exe
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\bin\Debug\TableToHTML.pdb
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\obj\Debug\TableToHTML.csprojAssemblyReference.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\obj\Debug\TableToHTML.csproj.CoreCompileInputs.cache
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\obj\Debug\TableToHTML.exe
+C:\Users\evgeny\source\repos\TableToJSON\TableToHTML\obj\Debug\TableToHTML.pdb
