@@ -1,0 +1,16 @@
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ExportToXLS.exe.config
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ExportToXLS.exe
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ExportToXLS.pdb
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ClosedXML.dll
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ExcelNumberFormat.dll
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\FastMember.dll
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ClosedXML.pdb
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ClosedXML.xml
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Repos\ZdorZakaz\ExportToXLS\bin\Debug\ExcelNumberFormat.xml
+C:\Repos\ZdorZakaz\ExportToXLS\obj\Debug\ExportToXLS.csprojAssemblyReference.cache
+C:\Repos\ZdorZakaz\ExportToXLS\obj\Debug\ExportToXLS.csproj.CoreCompileInputs.cache
+C:\Repos\ZdorZakaz\ExportToXLS\obj\Debug\ExportToXLS.csproj.CopyComplete
+C:\Repos\ZdorZakaz\ExportToXLS\obj\Debug\ExportToXLS.exe
+C:\Repos\ZdorZakaz\ExportToXLS\obj\Debug\ExportToXLS.pdb

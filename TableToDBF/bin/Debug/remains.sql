@@ -8,8 +8,8 @@ declare @date11 datetime
 declare @date22 datetime
 declare @id_store int
 
-set @date11 = '01.01.2021'
-set @date22 = '01.01.2021'
+set @date11 = '31.12.2020'
+set @date22 = '01.01.2020'
 set @id_store =  1 --!store!
 
 
