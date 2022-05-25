@@ -25,71 +25,26 @@ namespace ExportToXLS
             }
 
 
-            /*
-                        string fname = "_stat_", gsql;
-                        DataTable Sklad = fillDataTable(File.ReadAllText("Apteka.SQL"));
-
-
-                        Dictionary<string, string> DSklad = new Dictionary<string, string>();
-
-                        foreach (DataRow row in Sklad.Rows)
-                        {
-                            Console.WriteLine(row["ID_CONTRACTOR"].ToString() + "   " + row["NAME"].ToString());
-                            DSklad.Add(row["ID_CONTRACTOR"].ToString(), row["NAME"].ToString());
-                        }
-
-                        Console.WriteLine("Введите  НАЗВАНИЕ склада (или часть). ENTER - общая таблица по всем");
-                        String SkladID = Console.ReadLine();
-                        Console.WriteLine("Введите  название товара. ENTER - общая таблица по всем товарам");
-                        string str2 = Console.ReadLine();
-                        Console.WriteLine("Введите количество дней для анализа (1-99).  ENTER - не менять количество дней");
-                        string str3 = Console.ReadLine();
-                        int num = 0;
-                        if ((!int.TryParse(str3, out num) ? false : str3 != ""))
-                        {
-                            if ((num <= 0 ? false : num < 100))
-                            {
-                                string str4 = "UPDATE zakaz_option SET option_int_value = @DAYS WHERE option_name = 'DAYS'";
-                                using (SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.farmaConnectionString))
-                                {
-                                    SqlCommand sqlCommand = new SqlCommand(str4, sqlConnection);
-                                    sqlCommand.Parameters.AddWithValue("@DAYS", num);
-                                    sqlCommand.Connection.Open();
-                                    try
-                                    {
-                                        sqlCommand.ExecuteNonQuery();
-                                    }
-                                    catch (Exception exception)
-                                    {
-                                        Console.WriteLine(exception.ToString());
-                                        Console.WriteLine("Что то пошло не так. Количество дней не изменилось");
-                                    }
-                                }
-                            }
-                        }
-                        gsql = File.ReadAllText("zakaz.SQL");
-                        string SkladName = "Все_";
-                        if (SkladID != "" && SkladID != "0")
-                        {
-
-                            //gsql = gsql.Replace("set @ALL_STORES = 1", "set @ALL_STORES = 0");
-                            gsql = gsql.Replace("WHERE #V_REMAINS_ALL.APTEKA  like '%'", "where #V_REMAINS_ALL.APTEKA  like '%" + SkladID + "%'");
-                            SkladName = SkladID;//DSklad[SkladID] + "_";
-                        }
-                        if (str2 != "")
-                        {
-                            gsql = gsql.Replace("and #V_REMAINS_ALL.nm like  '%%'", string.Concat("and #V_REMAINS_ALL.nm like  '%", str2, "%'"));
-                        }
-            */
-
             string gsql, fname;
-            gsql = "select * from " + TableName;
+
+            if (TableName.ToUpper().Contains(".SQL"))
+            {
+                gsql = File.ReadAllText(TableName);
+                fname = TableName.Replace(".sql","");
+
+            }
+            else
+            {
+                gsql = "select * from " + TableName;
+                fname = TableName;
+            }
+            
             AddLine(gsql, "Log.SQL");
             Console.WriteLine("Формирую файл ");
             DataTable goods = fillDataTable(gsql);
             DataSet ds = new DataSet();
             ds.Tables.Add(goods);
-            fname = TableName;
+            
 
             DataTable dt;
 
